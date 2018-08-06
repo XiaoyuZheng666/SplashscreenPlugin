@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-jb-splashscreen",
+  "version": "5.0.2",
+  "description": "a plugin that show splashscreen",
+  "cordova": {
+    "id": "cordova-plugin-jb-splashscreen",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoyuZheng666/SplashscreenPlugin.git"
+  },
+  "keywords": [
+    "Splashscreen"
+  ],
+  "author": "xiaoyuzheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XiaoyuZheng666/SplashscreenPlugin/issues"
+  },
+  "homepage": "https://github.com/XiaoyuZheng666/SplashscreenPlugin#readme"
+}
